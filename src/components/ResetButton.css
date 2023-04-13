@@ -1,0 +1,15 @@
+.reset-btn {
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #bd3636;
+  color: white;
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  margin: 2rem auto;
+  display: block;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.reset-btn:hover {
+  background-color: #ff0000;
+}

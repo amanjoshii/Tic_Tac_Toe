@@ -1,0 +1,37 @@
+.scoreboard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 23rem;
+  font-size: 1.5rem;
+  background-color: white;
+  margin: 3rem auto;
+  box-shadow: 0px 0px 12px #888888;
+  border-radius: 0.5rem;
+  
+}
+
+.score {
+  width: 100%;
+  text-align: center;
+  padding: 1rem 0rem;
+}
+
+.x{
+  color: #01274d;
+  background-color:#c5d5e3;
+  border: 8px solid #05386B;
+  border-radius: 0.5rem 0rem 0rem 0.5rem;
+}
+
+.o {
+  color: #147d68;
+  border: 8px solid #379683;
+  background-color:#d1f1eb; 
+  border-radius: 0rem 0.5rem 0.5rem 0rem;
+}
+
+.inactive {
+  border: 8px solid transparent;
+}

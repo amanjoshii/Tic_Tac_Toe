@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+ margin: 3% auto;
+ background-color: #e2ead7;
+ font-family: 'Fredericka the Great', cursive;
+}
