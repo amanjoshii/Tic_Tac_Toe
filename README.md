@@ -2,7 +2,10 @@
  
 > When you Download this repo Extract it and Open it in Visual Studio code or any Editor 
 
-> Open Terminal by Pressing crtl+` by Main folder And Install node Modules by running Command 'npm install'.
+> Open Terminal by Pressing crtl+` And Install node Modules by running Command 'npm install'.
+
+![image](https://user-images.githubusercontent.com/67380456/231887506-eb1986c2-7796-4fc3-8254-a42b2188fc67.png)
+
 
 > Once node module will installed it will be visible in your Folder. 
 
@@ -18,7 +21,7 @@
 > Game Looks Like : 
 ![image](https://user-images.githubusercontent.com/67380456/231884953-00a6d717-2f6e-4536-b74a-9a128a8b7e89.png)
 
-> Game have 2 Players - Starts with X and with each game it will change first change to O then X then again to O sequence accordingly. Also, the box of scoreboard will show a border to show you the chance of players.
+> Game have 2 Players - Starts with X and with each game, first O then X will get first chance accordingly. Also, the box of scoreboard will show a border to show you the chance of players.
 
 > Also, it shows scoreboard and updates once any player wins.
 ![image](https://user-images.githubusercontent.com/67380456/231885932-a5d04e23-a4e6-43f9-8187-ae170776d1c0.png)
